@@ -1,3 +1,17 @@
+---
+layout: post
+title: "Easy Web Exploitation"
+subtitle: "Burppp.."
+date: 2025-05-13 06:11:00 +0530
+author: s0c41dgvns 
+categories: [PicoCTF, WebExploitation]
+tags: [
+  web exploitation,
+  picoCTF,
+    easy challenges,
+]
+---
+
 # PicoCTF 2025
 
 ## SSTI1
