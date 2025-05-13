@@ -20,7 +20,7 @@ tags: [
 
 ### Challenge information
 
-![Img](assets/images/picoEasyImages/image1.png)
+![_posts/assets/picoEasyImages/image.png](/_posts/assets/picoEasyImages/image.png)
 
 Challenge link: [https://play.picoctf.org/practice/challenge/492](https://play.picoctf.org/practice/challenge/492)
 
@@ -32,7 +32,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/492](https://play.p
 > You can have this _images\image as a mindmap to find what template is being used furtherly.
 > 
 
-![Source: [Portswigger](https://portswigger.net/research/server-side-template-injection)](_images\screen-shot-2015-07-20-at-09-21-56.png)
+![Source: [Portswigger](/_posts/assets/picoEasyImages/screen-shot-2015-07-20-at-09-21-56.png)
 
 Source: [Portswigger](https://portswigger.net/research/server-side-template-injection)
 
@@ -82,7 +82,7 @@ later,
 
 Challenge link: [https://play.picoctf.org/practice/challenge/482](https://play.picoctf.org/practice/challenge/482)
 
-![_images\image.png](D:\s0c41dgvns.github.io\_images\picoEasyImages\image1.png)
+![_images\image.png](/_posts/assets/picoEasyImages/image1.png)
 _images\image%201.png
 ### Solution
 
@@ -165,7 +165,7 @@ Meow ^^
 
 ### Description
 
-![_images\image.png](_images\image%203.png)
+![_images\image.png](/_posts/assets/picoEasyImages/image%203.png)
 
 ### Solution
 
@@ -177,13 +177,13 @@ On clicking it, it took us to the page. There is a api that souded similar to th
 
 Now, send a request or curl that from the terminal.
 
-![_images\image.png](_images\image%204.png)
+![_images\image.png](/_posts/assets/picoEasyImages/image%204.png)
 
 I downloaded that file and opened that heapdump file.
 
 In the find section, enter picoCTF and you get the flag in that file.
 
-![_images\image.png](_images\image%205.png)
+![_images\image.png](/_posts/assets/picoEasyImages/image%205.png)
 
 ---
 
@@ -191,18 +191,18 @@ In the find section, enter picoCTF and you get the flag in that file.
 
 ### Description
 
-![_images\image.png](_images\image%206.png)
+![_images\image.png](/_posts/assets/picoEasyImages/image%206.png)
 
 ### Solution
 
 - There is a simple login page, try the default admin:password or lookup for something on the source code.
 - when the credentials are entered, it says
 
-![_images\image.png](_images\image%207.png)
+![_images\image.png](/_posts/assets/picoEasyImages/image%207.png)
 
 based upon the hint, we may have to look at the cookie, use inspect to get here
 
-![_images\image.png](_images\image%208.png)
+![_images\image.png](/_posts/assets/picoEasyImages/image%208.png)
 
 - Now, decode that base64 encoded string that gives you the flag.
 
@@ -360,7 +360,7 @@ The description says not much
 
 - You once open the site, you will be given with a function that decrypts the gibberish to our flag, just copy and paste it in the console of the Inspect tool. you will get the flag in Alert box.
 
-![https://github.com/s0c41dgvns/s0c41dgvns.github.io/blob/main/_images/picoEasyImages/image%209.png](https://github.com/s0c41dgvns/s0c41dgvns.github.io/blob/main/_images/picoEasyImages/image%209.png)
+![/_posts/assets/picoEasyImages/image%203.png](/_posts/assets/picoEasyImages/image%209.png)
 
 ---
 
