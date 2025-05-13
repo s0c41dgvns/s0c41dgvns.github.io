@@ -82,8 +82,8 @@ later,
 
 Challenge link: [https://play.picoctf.org/practice/challenge/482](https://play.picoctf.org/practice/challenge/482)
 
-![_images\image.png](_images\image%201.png)
-
+![_images\image.png](D:\s0c41dgvns.github.io\_images\picoEasyImages\image1.png)
+_images\image%201.png
 ### Solution
 
 The home page of the challenge site is like this with a simple file upload feature.
