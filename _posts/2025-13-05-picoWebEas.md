@@ -20,7 +20,7 @@ tags: [
 
 ### Challenge information
 
-![https://drive.google.com/file/d/1npNDigSga0SOT36MsXhf3XLBCZ8RE4fd/view?usp=drive_link](https://drive.google.com/file/d/1npNDigSga0SOT36MsXhf3XLBCZ8RE4fd/view?usp=drive_link)
+![Img](assets\images\picoEasyImages\image1.png)
 
 Challenge link: [https://play.picoctf.org/practice/challenge/492](https://play.picoctf.org/practice/challenge/492)
 
