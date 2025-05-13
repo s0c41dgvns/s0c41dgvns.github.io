@@ -88,7 +88,7 @@ _images\image%201.png
 
 The home page of the challenge site is like this with a simple file upload feature.
 
-![_images\image.png](_images\picoEasyImages\image2.png)
+![_images\image.png](_posts/assets/picoEasyImages/image2.png)
 
 Try uploading any file but not picture formats like JPG, PNG to check the security implementation of the developer.
 
