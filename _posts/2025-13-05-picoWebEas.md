@@ -360,7 +360,7 @@ The description says not much
 
 - You once open the site, you will be given with a function that decrypts the gibberish to our flag, just copy and paste it in the console of the Inspect tool. you will get the flag in Alert box.
 
-![_images\image.png](_images\image%209.png)
+![https://github.com/s0c41dgvns/s0c41dgvns.github.io/blob/main/_images/picoEasyImages/image%209.png](https://github.com/s0c41dgvns/s0c41dgvns.github.io/blob/main/_images/picoEasyImages/image%209.png)
 
 ---
 
