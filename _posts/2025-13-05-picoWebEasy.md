@@ -20,7 +20,7 @@ tags: [
 
 ### Challenge information
 
-![Img](assets/images/picoEasyImages/image1.png)
+![Img](/assets/images/picoEasyImages/image0.png)
 
 Challenge link: [https://play.picoctf.org/practice/challenge/492](https://play.picoctf.org/practice/challenge/492)
 
@@ -32,7 +32,7 @@ Challenge link: [https://play.picoctf.org/practice/challenge/492](https://play.p
 > You can have this _images\image as a mindmap to find what template is being used furtherly.
 > 
 
-![Source: [Portswigger](https://portswigger.net/research/server-side-template-injection)](_images\screen-shot-2015-07-20-at-09-21-56.png)
+![Source: [Portswigger](https://portswigger.net/research/server-side-template-injection)](/assets/images/picoEasyImages/image01.png)
 
 Source: [Portswigger](https://portswigger.net/research/server-side-template-injection)
 
@@ -82,8 +82,8 @@ later,
 
 Challenge link: [https://play.picoctf.org/practice/challenge/482](https://play.picoctf.org/practice/challenge/482)
 
-![_images\image.png](D:\s0c41dgvns.github.io\_images\picoEasyImages\image1.png)
-/assets/images/picoEasyImages/image1.png
+![_images\image.png](/assets/images/picoEasyImages/image1.png)
+
 ### Solution
 
 The home page of the challenge site is like this with a simple file upload feature.
@@ -361,7 +361,7 @@ The description says not much
 
 - You once open the site, you will be given with a function that decrypts the gibberish to our flag, just copy and paste it in the console of the Inspect tool. you will get the flag in Alert box.
 
-![https://github.com/s0c41dgvns/s0c41dgvns.github.io/blob/main/_images/picoEasyImages/image%209.png](https://github.com/s0c41dgvns/s0c41dgvns.github.io/blob/main/_images/picoEasyImages/image%209.png)
+![](/assets/images/picoEasyImages/image9.png)
 
 ---
 
