@@ -2,7 +2,7 @@
 layout: post
 title: "Imaginary CTF Writeups"
 subtitle: "Echoes from the Terminal: My First Log Entry"
-date: 2025-04-14 06:11:00 +0530
+date: 2025-09-09 11:11:00 +0530
 author: s0c41dgvns 
 categories: [CTF writeups]
 tags: [
@@ -31,7 +31,7 @@ This post covers some of the challenges I solved during ImaginaryCTF. Each chall
 > I installed every old software known to man... The flag is the VNC password, wrapped in ictf{}.
 > 
 
-**Attachment:** [Users.zip](https://www.notion.so/assets/files/obfuscated-1/Users.zip)
+**Attachment:** [Users.zip](https://github.com/ImaginaryCTF/ImaginaryCTF-2025-Challenges/blob/main/Forensics/obfuscated-1/dist/Users.zip)
 
 ---
 
@@ -107,7 +107,7 @@ This was a classic registry-artifact challenge: knowing where software hides cre
 > not a steg challenge i promise
 > 
 
-**Attachment:** [wave.wav](https://chatgpt.com/assets/files/wave/wave.wav)
+**Attachment:** [wave.wav](https://github.com/ImaginaryCTF/ImaginaryCTF-2025-Challenges/blob/main/Forensics/wave/dist/wave.wav)
 
 **Flag:** `ictf{obligatory_metadata_challenge}`
 
@@ -197,7 +197,7 @@ ictf{obligatory_metadata_challenge}
 
 **Challenge URL:** [http://passwordless.chal.imaginaryctf.org](http://passwordless.chal.imaginaryctf.org/)
 
-**Attachment:** [passwordless.zip](https://chatgpt.com/assets/files/passwordless/passwordless.zip)
+**Attachment:** [passwordless.zip](https://github.com/ImaginaryCTF/ImaginaryCTF-2025-Challenges/blob/main/Web/passwordless/dist/passwordless.zip)
 
 **Flag:** `ictf{8ee2ebc4085927c0dc85f07303354a05}`
 
