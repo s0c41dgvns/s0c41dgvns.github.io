@@ -1,16 +1,15 @@
 ---
 layout: post
 title: "Pico CTF Writeup"
-subtitle: ""
-date: 2026-18-03 11:11:00 +0530
+date: 2026-03-18 11:11:00 +0530
 author: s0c41dgvns 
-categories: [CTF writeups]
-tags: [
-  CTF writeup,
-    Cloud,
-    kubernetes
-]
+categories: [ctf-writeups]
+tags:
+  - CTF-writeup
+  - Cloud
+  - Kubernetes
 ---
+
 # KSECRETS 
 ![Img](/assets/images/picoctf2026/ksecrets0.jpeg)
 
